@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    border:1px black solid;
+    margin:20px;
+}
+
+.special_link {
+    background:purple;
+    color:white;
+}
+
+
+
+font {
+    background-color:purple ;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+    background:gold;
+}
+
+header {
+    background:lightgreen;
+    margin-bottom: 10px;
+}
+
+font {
+    background:lightseagreen;
+}
+
+footer {
+    background:lightgoldenrodyellow;
+    padding:10px;
+}
